@@ -32,3 +32,9 @@
 - 安裝必要套件：
   ```bash
   pip install opencv-python mediapipe pyautogui
+
+
+
+
+https://github.com/user-attachments/assets/98ecca7a-e5cb-4e4d-b966-3db304c69a84
+
